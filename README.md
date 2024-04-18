@@ -29,7 +29,7 @@ Jordan Hastings​
   AR-U is an android app that will allow students and vistors to quickly discover more about the University of Nevada Reno's campus. AR-U's intuitive interface will allow users to point their device's camera at any of the buildings on campus and quickly identify key information. Want to know what the building's called? Want to see if the building has any vending machines or shops to grab a bite? Want to find a restroom quickly? Looking for a place to set up and charge your devices in between classes? Think AR-U!
   AR-U will also feature a note's section so you can quickly store your own information about building's. At the beginning of the semester you can store your professor's office hours for quick reference, remind your self of keycode to enter the lab your interning for.
 
-
+[![Watch the video](https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg)](https://www.youtube.com/embed/APOPm01BVrk)
 
 [App Demo](https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/ea88f720-9936-4d48-97c9-ec2941693a43)
 
