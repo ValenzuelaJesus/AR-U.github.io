@@ -11,14 +11,22 @@ Leonel Covarrubias \
 Jesus Valenzuela \
 Matthew Tang
 ### Instructors
-Sara Davis\
+
+<img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/8775b44b-17e1-4167-aa77-e9c4e42fb977" alt="Sara-Davis" width="200" height="200" style="margin-right: 10px;"> \
+Sara Davis \
+<img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/2cfb69e1-de93-4590-aea9-86f6c80e9c4a" alt="dave" width="200" height="200"> \
 David Feil-Seifer\
+<img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/84e18c68-eabb-42fd-a426-93790b4e20c7" alt="devrin-lee" width="200" height="200" style="margin-right: 10px;"> \
 Devrin Lee 
+
+
+
 ### Teaching Assistants
 Vinh Le\
 Zach Estreito
 
 ### External Advisor
+<img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/67db5217-6b69-466c-a9e8-46b48816a210" alt="jordan-hastings" width="200" height="200" style="margin-right: 10px;"> \
 Jordan Hastings​
 
 - PhD Geography and Cartography​
@@ -76,10 +84,51 @@ When a Building is scanned, their notes are displayed to the screen! ​
 ​
 
 ### More Info 
+​
+The More Info page gives users a through description of each building around campus​
+
+
+- Building Code​
+
+- Building Number​
+
+- Hours of Operations​
+
+- Resources​
+
+- Restrooms​
+
+- Elevators​
+
+- Staircases​
+
+- Amenities​
+
+- Food Options​
 
 ### Accessibility 
+Accessibility features for our app includes the following:​
 
+​
+- Color Blind Mode​
+
+  - Protanopia (Red-Green Color Vision Deficiency)​
+
+  - Tritanopia (Blue-Yellow Color Vision Deficiency)​
+
+  - Achromatopsia (Complete Color Vision Deficiency)​
+
+- Text-to-Speech Reader​
+
+- Filter for ADA Restrooms​
+
+​
 ### Tech Stack
+
+- Intellij/Android Studio
+- Django REST​ Framework
+- Google Cloud
+- PostgreSQL
 
 ### Project Related Resources
 https://www.jetbrains.com/idea/ \
