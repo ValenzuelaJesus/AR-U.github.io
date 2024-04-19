@@ -10,7 +10,9 @@
 Leonel Covarrubias \
 Jesus Valenzuela \
 <img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/70356127/122edba6-85e4-4f79-abc6-fa4c57abdb6b" alt="Jesus Valenzuela" width="200" height="200" style="margin-right: 10px;"> \
-Matthew Tang
+Matthew Tang \
+<img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/58528155/bd57804d-83e1-493a-8ca9-73b9837d4320" alt="Matthew Tang" width="200" height="200" style="margin-right: 10px;"> 
+
 ### Instructors
 
 <img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/8775b44b-17e1-4167-aa77-e9c4e42fb977" alt="Sara-Davis" width="200" height="200" style="margin-right: 10px;"> \
