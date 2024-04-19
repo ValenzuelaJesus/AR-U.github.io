@@ -5,9 +5,9 @@
 ## University of Nevada Reno Computer Science and Engineering Department
 
 
-
 ### Members
 Leonel Covarrubias \
+<img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/475a6dfc-ad87-4652-90b3-931eba5041a2" alt="leo" width="200" height="200" style="margin-right: 10px;"> \
 Jesus Valenzuela \
 <img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/70356127/122edba6-85e4-4f79-abc6-fa4c57abdb6b" alt="Jesus Valenzuela" width="200" height="200" style="margin-right: 10px;"> \
 Matthew Tang \
