@@ -9,6 +9,8 @@
 ### Members
 Leonel Covarrubias \
 Jesus Valenzuela \
+page_assets/20240419_124102.jpg
+<img src="https://github.com/ValenzuelaJesus/AR-U.github.io/page_assets/20240419_124102.jpg" alt="Jesus-Valenzuela" width="200" height="200" style="margin-right: 10px;">
 Matthew Tang
 ### Instructors
 
