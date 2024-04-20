@@ -1,62 +1,166 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AR-U Project</title>
-</head>
-<body>
+    <!-- Add your CSS link here -->
+  </head>
+
+  <body>
     <header>
-        <h1>AR-U</h1>
-        <h2>Team 48: AR-U</h2>
-        <p>CS 426 Senior Projects Spring 2024</p>
-        <p>University of Nevada Reno Computer Science and Engineering Department</p>
+      <img width="298" alt="logoApp" src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/1afe2d6f-2468-4a9a-9edc-cb22fee4a83e">
+      <h1>Team 48: AR-U</h1>
+      <h2>CS 426 Senior Projects Spring 2024</h2>
+      <h2>University of Nevada Reno Computer Science and Engineering Department</h2>
     </header>
 
-    <section>
+    <main>
+      <section class="members">
         <h3>Members</h3>
-        <ul>
-            <li>Leonel Covarrubias</li>
-            <li>Jesus Valenzuela</li>
-            <li>Matthew Tang</li>
-        </ul>
-    </section>
+        <p>Leonel Covarrubias</p>
+        <img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/475a6dfc-ad87-4652-90b3-931eba5041a2" alt="leo" width="200" height="200" style="margin-right: 10px;">
+        <p>Jesus Valenzuela</p>
+        <img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/70356127/122edba6-85e4-4f79-abc6-fa4c57abdb6b" alt="Jesus Valenzuela" width="200" height="200" style="margin-right: 10px;">
+        <p>Matthew Tang</p>
+        <img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/58528155/bd57804d-83e1-493a-8ca9-73b9837d4320" alt="Matthew Tang" width="200" height="200" style="margin-right: 10px;">
+      </section>
 
-    <section>
+      <section class="instructors">
         <h3>Instructors</h3>
+        <div class="instructors-container">
+          <div class="instructor">
+            <img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/8775b44b-17e1-4167-aa77-e9c4e42fb977" alt="Sara-Davis" width="200" height="200">
+            <p>Sara Davis</p>
+          </div>
+          <div class="instructor">
+            <img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/2cfb69e1-de93-4590-aea9-86f6c80e9c4a" alt="dave" width="200" height="200">
+            <p>David Feil-Seifer</p>
+          </div>
+          <div class="instructor">
+            <img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/84e18c68-eabb-42fd-a426-93790b4e20c7" alt="devrin-lee" width="200" height="200">
+            <p>Devrin Lee</p>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <h3>External Advisor</h3>
+        <img src="https://github.com/ValenzuelaJesus/AR-U.github.io/assets/77948434/67db5217-6b69-466c-a9e8-46b48816a210" alt="jordan-hastings" width="200" height="200" style="margin-right: 10px;">
+        <p>Jordan Hastings</p>
         <ul>
-            <li>Sara Davis</li>
-            <li>David Feil-Seifer</li>
-            <li>Devrin Lee</li>
+          <li>PhD Geography and Cartography</li>
+          <li>Masters Computer Science</li>
+          <li>B.S Mathematics</li>
         </ul>
-    </section>
 
-    <!-- Add other sections for Teaching Assistants and External Advisor -->
-
-    <section>
+      </section>
+      <section class="project">
         <h3>The Project</h3>
-        <p>AR-U is an android app that will allow students and visitors to quickly discover more about the University of Nevada Reno's campus...</p>
-        <!-- Add more content as needed -->
-    </section>
+        <p>AR-U is an android app that will allow students and vistors to quickly discover more about the University of Nevada Reno's campus. AR-U's intuitive interface will allow users to point their device's camera at any of the buildings on campus and quickly identify key information. Want to know what the building's called? Want to see if the building has any vending machines or shops to grab a bite? Want to find a restroom quickly? Looking for a place to set up and charge your devices in between classes? Think AR-U!</p>
+      </section>
 
-    <section>
-        <h3>Watch the video</h3>
-        <!-- Replace 'VIDEO_URL' with the actual URL to your video -->
-        <video width="320" height="240" controls>
-            <source src="VIDEO_URL" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </section>
+      <section class="video">
+        <h3>Project Demo</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vQp7Mw-u1Ho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </section>
 
-    <!-- Add sections for Application Features, My Notes, More Info, Accessibility, Tech Stack -->
+
+      <section class="features">
+        <h1>Application Features</h1>
+        <!-- Features content -->
+      </section>
+
+      <!-- Additional sections for My Notes, More Info, Accessibility, Tech Stack -->
+
+      <section class="features">
+        <h1>Application Features</h1>
+        <h2>Building Scanning</h2>
+        <p>Open the app and you're ready to scan.</p>
+        <ul>
+          <li>User is immediately taken to the AR scanning portion of the app.</li>
+          <li>Don’t forget to Allow Location and Camera permissions!</li>
+        </ul>
+        <p><b>Point the device to the Campus building you want to learn about.</b><br></p>
+        <ul>
+          <p>After a successful scan, the user is presented details about the building such as:</p>
+          <ul>
+            <li>Name and Building code</li>
+            <li>Building Hours</li>
+            <li>Restrooms</li>
+            <li>Food Options</li>
+            <li>“My Notes”</li>
+          </ul>
+          <li>Users can select More info to learn more, or clear the screen and scan another building!</li>
+        </ul>
+      </section>
+
+      <section class="my-notes">
+        <h2>My Notes</h2>
+        <p>Users can create their own Notes to associate with a building.</p>
+        <ul>
+          <li>Gives the user full customization in the information that is retrieved from a building.</li>
+          <li>Great for general reminders.</li>
+          <li>Allows the user to not be limited by the information we have provided, as they can add their own resources for future references.</li>
+        </ul>
+        <p>When a Building is scanned, their notes are displayed to the screen!</p>
+      </section>
+      <section class="more-info">
+        <h2>More Info</h2>
+        <p>The More Info page gives users a thorough description of each building around campus.</p>
+        <ul>
+          <li>Building Code</li>
+          <li>Building Number</li>
+          <li>Hours of Operations</li>
+          <li>Resources</li>
+          <li>Restrooms</li>
+          <li>Elevators</li>
+          <li>Staircases</li>
+          <li>Amenities</li>
+          <li>Food Options</li>
+        </ul>
+      </section>
+
+      <section class="accessibility">
+        <h2>Accessibility</h2>
+        <p>Accessibility features for our app includes the following:</p>
+        <ul>
+          <li>Color Blind Mode
+            <ul>
+              <li>Protanopia (Red-Green Color Vision Deficiency)</li>
+              <li>Tritanopia (Blue-Yellow Color Vision Deficiency)</li>
+              <li>Achromatopsia (Complete Color Vision Deficiency)</li>
+            </ul>
+          </li>
+          <li>Text-to-Speech Reader</li>
+          <li>Filter for ADA Restrooms</li>
+        </ul>
+      </section>
+
+      <section class="tech-stack">
+        <h2>Tech Stack</h2>
+        <ul>
+          <li>Intellij/Android Studio</li>
+          <li>Django REST Framework</li>
+          <li>Google Cloud</li>
+          <li>PostgreSQL</li>
+        </ul>
+      </section>
+
+      <section class="resources">
+        <h2>Project Related Resources</h2>
+        <ul>
+          <li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a></li>
+          <li><a href="https://postgis.net/documentation/">PostGIS Documentation</a></li>
+          <li><a href="https://www.postgresql.org/download/">PostgreSQL Download</a></li>
+        </ul>
+      </section>
+
+    </main>
 
     <footer>
-        <h3>Project Related Resources</h3>
-        <ul>
-            <li><a href="https://www.jetbrains.com/idea/">JetBrains IDEA</a></li>
-            <li><a href="https://postgis.net/documentation/">PostGIS Documentation</a></li>
-            <li><a href="https://www.postgresql.org/download/">PostgreSQL Download</a></li>
-        </ul>
     </footer>
-</body>
+  </body>
+
 </html>
